@@ -1,9 +1,8 @@
 ### myGenius-G4H: Inspirado no brinquedo dos anos 80 (Genius da Estrela)
 
-Quando minha sogra sofreu um AVC que afetou sua mobilidade, fala e funções cognitivas, senti-me impelido a ajudá-la de alguma forma. A motivação pessoal se aliou a uma demanda acadêmica da disciplina de jogos do meu mestrado em Ciência da Computação, levando-me a explorar o potencial dos serious games na reabilitação pós-AVC.
+* Quando minha sogra sofreu um AVC que afetou sua mobilidade, fala e funções cognitivas, senti-me impelido a ajudá-la de alguma forma. A motivação pessoal se aliou a uma demanda acadêmica da disciplina de jogos do meu mestrado em Ciência da Computação, levando-me a explorar o potencial dos serious games na reabilitação pós-AVC.
 
-Para tanto, este jogo busca colaborar no desenvolvimento de capacidades cognitivas relacionadas à detecção de cores e sons por pessoas com algum tipo de necessidade, por exemplo em situações pós AVC.
-
+* Para tanto, este jogo busca colaborar no desenvolvimento de capacidades cognitivas relacionadas à detecção de cores e sons por pessoas com algum tipo de necessidade, por exemplo em situações pós AVC.
 
 ## O Poder dos Serious Games na Reabilitação
 Os serious games, ou jogos sérios, são ferramentas que combinam entretenimento com propósitos educacionais ou terapêuticos. No contexto da reabilitação, esses jogos podem ser especialmente eficazes, proporcionando uma forma envolvente e motivadora de realizar exercícios e terapias.
@@ -21,11 +20,11 @@ Após algumas semanas de uso do serious game, começamos a notar melhorias signi
 Minha experiência com a criação e utilização de um serious game na reabilitação pós-AVC demonstrou o enorme potencial dessas ferramentas para auxiliar no processo de recuperação de pacientes. Além disso, ressalta a importância de abordagens multidisciplinares, que combinam conhecimentos da área de tecnologia com expertise em saúde, para o desenvolvimento de soluções eficazes e personalizadas.
 
 ___
-State University of Feira de Santana
-PGCC017 - Games and Digital Entertainment
-Teacher Victor Travassos Sarinho
-PhD in Computer Science, UFBA
+* State University of Feira de Santana
+* PGCC017 - Games and Digital Entertainment
+* Teacher Victor Travassos Sarinho
+* PhD in Computer Science, UFBA
 
-Desenvolvedor,
-Marcos Morais
-Visite https://linktr.ee/marcosmoraisjr
+* Desenvolvedor,
+* Marcos Morais
+* Visite https://linktr.ee/marcosmoraisjr

@@ -1,0 +1,14 @@
+D:\Dev\github\myGenius-G4H\bin\Release\frmGenius_v2.resx
+D:\Dev\github\myGenius-G4H\bin\Release\frmGenius_v2.cs
+D:\Dev\github\myGenius-G4H\bin\Release\frmGenius_v2.Designer.cs
+D:\Dev\github\myGenius-G4H\bin\Release\Genius.exe
+D:\Dev\github\myGenius-G4H\bin\Release\Genius.pdb
+D:\Dev\github\myGenius-G4H\obj\Release\Genius.csproj.AssemblyReference.cache
+D:\Dev\github\myGenius-G4H\obj\Release\Genius.frmSobre.resources
+D:\Dev\github\myGenius-G4H\obj\Release\Genius.frmGenius_v2.resources
+D:\Dev\github\myGenius-G4H\obj\Release\Genius.Properties.Resources.resources
+D:\Dev\github\myGenius-G4H\obj\Release\Genius.frmSplashScreen.resources
+D:\Dev\github\myGenius-G4H\obj\Release\Genius.csproj.GenerateResource.cache
+D:\Dev\github\myGenius-G4H\obj\Release\Genius.csproj.CoreCompileInputs.cache
+D:\Dev\github\myGenius-G4H\obj\Release\Genius.exe
+D:\Dev\github\myGenius-G4H\obj\Release\Genius.pdb

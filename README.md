@@ -20,7 +20,6 @@ Após algumas semanas de uso do serious game, começamos a notar melhorias signi
 
 ## Algumas telas
 ![3](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b15149c9-3eae-4fe3-afa8-f70e54826c57)
-![7](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/28353b99-544c-4d30-b25b-2c9e80256eda)
 ![8](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/5e5dd3fb-2690-4f18-8726-6888b4e3a652)
 ![9](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/fc731d80-2bf1-41f3-96dd-507a4ce83556)
 

@@ -11,6 +11,8 @@ Os serious games, ou jogos sérios, são ferramentas que combinam entretenimento
 
 ## Minha Experiência na Criação de um Serious Game Personalizado
 Inspirado pela situação da minha sogra, decidi desenvolver um serious game personalizado para auxiliar em sua reabilitação. Utilizando os conhecimentos adquiridos no mestrado, juntamente com a orientação de profissionais da área de saúde, comecei a projetar e implementar o jogo.
+![avc](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b695ebb1-bd3d-4ec2-b663-4fca5326e246)
+
 
 ## Aspectos Considerados na Criação do Jogo
 Na concepção do jogo, levei em consideração as limitações físicas e cognitivas da minha sogra, garantindo que os exercícios propostos fossem adequados ao seu estado de saúde. Além disso, busquei tornar o jogo o mais intuitivo e acessível possível, de modo a facilitar sua utilização por parte dela.

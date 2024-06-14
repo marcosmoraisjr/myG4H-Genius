@@ -1,3 +1,5 @@
+![avc](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b695ebb1-bd3d-4ec2-b663-4fca5326e246)
+
 ![1](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/3b93d404-bc3d-4a88-80eb-b1639aa6130d)
 ![2](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/a50d45e5-078e-4d14-a127-c3226654ec32)
 ![3](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b15149c9-3eae-4fe3-afa8-f70e54826c57)
@@ -18,7 +20,7 @@ Os serious games, ou jogos sérios, são ferramentas que combinam entretenimento
 
 ## Minha Experiência na Criação de um Serious Game Personalizado
 Inspirado pela situação da minha sogra, decidi desenvolver um serious game personalizado para auxiliar em sua reabilitação. Utilizando os conhecimentos adquiridos no mestrado, juntamente com a orientação de profissionais da área de saúde, comecei a projetar e implementar o jogo.
-![avc](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b695ebb1-bd3d-4ec2-b663-4fca5326e246)
+
 
 
 ## Aspectos Considerados na Criação do Jogo

@@ -19,15 +19,12 @@ Na concepção do jogo, levei em consideração as limitações físicas e cogni
 Após algumas semanas de uso do serious game, começamos a notar melhorias significativas na mobilidade e na fala da minha sogra. Além disso, percebemos um aumento na sua motivação e engajamento com o processo de reabilitação, o que contribuiu positivamente para sua recuperação.
 
 ## Algumas telas
-![1](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/3b93d404-bc3d-4a88-80eb-b1639aa6130d)
 ![2](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/a50d45e5-078e-4d14-a127-c3226654ec32)
 ![3](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b15149c9-3eae-4fe3-afa8-f70e54826c57)
-![4](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/db248355-e020-40bf-9f3d-d42151e5e773)
-![5](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/1ac26870-319d-491e-8b04-1c7c53a330ae)
-![6](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/229969c5-0237-4b00-bd7d-58e686265986)
 ![7](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/28353b99-544c-4d30-b25b-2c9e80256eda)
 ![8](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/5e5dd3fb-2690-4f18-8726-6888b4e3a652)
 ![9](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/fc731d80-2bf1-41f3-96dd-507a4ce83556)
+
 ## Considerações Finais e Reflexões
 Minha experiência com a criação e utilização de um serious game na reabilitação pós-AVC demonstrou o enorme potencial dessas ferramentas para auxiliar no processo de recuperação de pacientes. Além disso, ressalta a importância de abordagens multidisciplinares, que combinam conhecimentos da área de tecnologia com expertise em saúde, para o desenvolvimento de soluções eficazes e personalizadas.
 

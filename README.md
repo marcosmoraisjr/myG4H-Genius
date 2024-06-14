@@ -1,8 +1,10 @@
 ![avc](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b695ebb1-bd3d-4ec2-b663-4fca5326e246)
 
-### myGenius-G4H: Inspirado no brinquedo dos anos 80 (Genius da Estrela)
+# GENIUS G4H: Jogo para Saúde na Reabilitação Pós-AVC
+Quando minha sogra sofreu um AVC que afetou sua mobilidade, fala e funções cognitivas, senti-me impelido a ajudá-la de alguma forma. Essa motivação pessoal aliada a uma demanda na CEPEDI (restic36) me levou a explorar o potencial dos serious games na reabilitação pós-AVC.
 
-* Motivação: Quando minha sogra sofreu um AVC que afetou sua mobilidade, fala e funções cognitivas, senti-me impelido a ajudá-la de alguma forma. A motivação pessoal se aliou a uma demanda acadêmica da disciplina de jogos do meu mestrado em Ciência da Computação, levando-me a explorar o potencial dos serious games na reabilitação pós-AVC.
+## Descrição do Problema
+O Acidente Vascular Cerebral (AVC) é uma das principais causas de morte e incapacidade globalmente. Em 2019, houve cerca de 12,2 milhões de novos casos de AVC e 6,55 milhões de óbitos. Os sobreviventes frequentemente enfrentam sequelas significativas que impactam a memória, a lógica, o raciocínio e a mobilidade de mãos e braços. Embora a reabilitação seja essencial para a recuperação dessas capacidades, ela pode não ser acessível para todos os pacientes.
 
 * Para tanto, este jogo busca colaborar no desenvolvimento de capacidades cognitivas relacionadas à detecção de cores e sons por pessoas com algum tipo de necessidade, por exemplo em situações pós AVC.
 

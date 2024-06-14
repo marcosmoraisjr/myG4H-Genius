@@ -1,5 +1,7 @@
 ### myGenius-G4H: Inspirado no brinquedo dos anos 80 (Genius da Estrela)
 
+![tela1](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/0b6c39fc-8aed-4bbe-bcc2-ae410827d0a1)
+
 * Quando minha sogra sofreu um AVC que afetou sua mobilidade, fala e funções cognitivas, senti-me impelido a ajudá-la de alguma forma. A motivação pessoal se aliou a uma demanda acadêmica da disciplina de jogos do meu mestrado em Ciência da Computação, levando-me a explorar o potencial dos serious games na reabilitação pós-AVC.
 
 * Para tanto, este jogo busca colaborar no desenvolvimento de capacidades cognitivas relacionadas à detecção de cores e sons por pessoas com algum tipo de necessidade, por exemplo em situações pós AVC.

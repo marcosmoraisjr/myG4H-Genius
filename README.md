@@ -19,7 +19,6 @@ Na concepção do jogo, levei em consideração as limitações físicas e cogni
 Após algumas semanas de uso do serious game, começamos a notar melhorias significativas na mobilidade e na fala da minha sogra. Além disso, percebemos um aumento na sua motivação e engajamento com o processo de reabilitação, o que contribuiu positivamente para sua recuperação.
 
 ## Algumas telas
-![2](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/a50d45e5-078e-4d14-a127-c3226654ec32)
 ![3](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b15149c9-3eae-4fe3-afa8-f70e54826c57)
 ![7](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/28353b99-544c-4d30-b25b-2c9e80256eda)
 ![8](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/5e5dd3fb-2690-4f18-8726-6888b4e3a652)

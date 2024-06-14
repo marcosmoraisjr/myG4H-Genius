@@ -1,6 +1,6 @@
 ### myGenius-G4H: Inspirado no brinquedo dos anos 80 (Genius da Estrela)
 
-![tela3](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/26a4f347-0675-4ce7-80e8-3455db6c5183) ![avc](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b695ebb1-bd3d-4ec2-b663-4fca5326e246)
+![tela1](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/0b6c39fc-8aed-4bbe-bcc2-ae410827d0a1) ![tela3](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/26a4f347-0675-4ce7-80e8-3455db6c5183) 
 
 * Quando minha sogra sofreu um AVC que afetou sua mobilidade, fala e funções cognitivas, senti-me impelido a ajudá-la de alguma forma. A motivação pessoal se aliou a uma demanda acadêmica da disciplina de jogos do meu mestrado em Ciência da Computação, levando-me a explorar o potencial dos serious games na reabilitação pós-AVC.
 
@@ -11,7 +11,7 @@ Os serious games, ou jogos sérios, são ferramentas que combinam entretenimento
 
 ## Minha Experiência na Criação de um Serious Game Personalizado
 Inspirado pela situação da minha sogra, decidi desenvolver um serious game personalizado para auxiliar em sua reabilitação. Utilizando os conhecimentos adquiridos no mestrado, juntamente com a orientação de profissionais da área de saúde, comecei a projetar e implementar o jogo.
-
+![avc](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b695ebb1-bd3d-4ec2-b663-4fca5326e246)
 
 
 ## Aspectos Considerados na Criação do Jogo
@@ -32,4 +32,4 @@ ___
 * Desenvolvedor,
 <br />Marcos Morais
 <br />Visite https://linktr.ee/marcosmoraisjr
-![tela1](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/0b6c39fc-8aed-4bbe-bcc2-ae410827d0a1)
+

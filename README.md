@@ -24,7 +24,8 @@ Após algumas semanas de uso do serious game, começamos a notar melhorias signi
 ![9](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/fc731d80-2bf1-41f3-96dd-507a4ce83556)
 
 ## Considerações Finais e Reflexões
-Minha experiência com a criação e utilização de um serious game na reabilitação pós-AVC demonstrou o enorme potencial dessas ferramentas para auxiliar no processo de recuperação de pacientes. Além disso, ressalta a importância de abordagens multidisciplinares, que combinam conhecimentos da área de tecnologia com expertise em saúde, para o desenvolvimento de soluções eficazes e personalizadas.
+O projeto GENIUS G4H propõe uma solução inovadora e viável para os desafios da reabilitação pós-AVC. Combinando tecnologia avançada e princípios de gamificação, este protótipo tem o potencial de transformar a maneira como os pacientes se recuperam de um AVC, proporcionando uma experiência mais envolvente, eficiente e motivadora. Por fim, é importante ressaltar que a solução proposta é um protótipo e pode ser melhorada.
+
 
 ___
 <!-- <br />State University of Feira de Santana

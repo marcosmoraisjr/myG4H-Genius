@@ -1,5 +1,12 @@
-![tela2](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/56bb19e5-cd53-4762-b21c-c491317e03a4)![tela3](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/26a4f347-0675-4ce7-80e8-3455db6c5183) 
-
+![1](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/3b93d404-bc3d-4a88-80eb-b1639aa6130d)
+![2](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/a50d45e5-078e-4d14-a127-c3226654ec32)
+![3](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/b15149c9-3eae-4fe3-afa8-f70e54826c57)
+![4](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/db248355-e020-40bf-9f3d-d42151e5e773)
+![5](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/1ac26870-319d-491e-8b04-1c7c53a330ae)
+![6](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/229969c5-0237-4b00-bd7d-58e686265986)
+![7](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/28353b99-544c-4d30-b25b-2c9e80256eda)
+![8](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/5e5dd3fb-2690-4f18-8726-6888b4e3a652)
+![9](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/fc731d80-2bf1-41f3-96dd-507a4ce83556)
 ### myGenius-G4H: Inspirado no brinquedo dos anos 80 (Genius da Estrela)
 
 * Motivação: Quando minha sogra sofreu um AVC que afetou sua mobilidade, fala e funções cognitivas, senti-me impelido a ajudá-la de alguma forma. A motivação pessoal se aliou a uma demanda acadêmica da disciplina de jogos do meu mestrado em Ciência da Computação, levando-me a explorar o potencial dos serious games na reabilitação pós-AVC.

@@ -1,5 +1,7 @@
 ### myGenius-G4H: Inspirado no brinquedo dos anos 80 (Genius da Estrela)
 
+https://private-user-images.githubusercontent.com/26969915/339867023-56bb19e5-cd53-4762-b21c-c491317e03a4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzODk3NzQsIm5iZiI6MTcxODM4OTQ3NCwicGF0aCI6Ii8yNjk2OTkxNS8zMzk4NjcwMjMtNTZiYjE5ZTUtY2Q1My00NzYyLWIyMWMtYzQ5MTMxN2UwM2E0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE0VDE4MjQzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhMmQyNmI1YjE2NWNhYjNhZmQ1MDdlZmE0ZjZiYTk2YzM4OWFmNjJkZDI3YTc4NjFlNTM4NjcwMjI5NjUyYWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oT32HT3o9l_eV-TdZ2ZvxT5kscxmHOO6ExtJ26-SIDk
+
 ![tela1](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/0b6c39fc-8aed-4bbe-bcc2-ae410827d0a1) ![tela3](https://github.com/marcosmoraisjr/myGenius-G4H/assets/26969915/26a4f347-0675-4ce7-80e8-3455db6c5183) 
 
 * Quando minha sogra sofreu um AVC que afetou sua mobilidade, fala e funções cognitivas, senti-me impelido a ajudá-la de alguma forma. A motivação pessoal se aliou a uma demanda acadêmica da disciplina de jogos do meu mestrado em Ciência da Computação, levando-me a explorar o potencial dos serious games na reabilitação pós-AVC.

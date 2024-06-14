@@ -27,11 +27,11 @@ Após algumas semanas de uso do serious game, começamos a notar melhorias signi
 Minha experiência com a criação e utilização de um serious game na reabilitação pós-AVC demonstrou o enorme potencial dessas ferramentas para auxiliar no processo de recuperação de pacientes. Além disso, ressalta a importância de abordagens multidisciplinares, que combinam conhecimentos da área de tecnologia com expertise em saúde, para o desenvolvimento de soluções eficazes e personalizadas.
 
 ___
-<br />State University of Feira de Santana
+<!-- <br />State University of Feira de Santana
 <br />PGCC017 - Games and Digital Entertainment
 <br />Teacher Victor Travassos Sarinho
 <br />PhD in Computer Science, UFBA
-<br />
+<br /> -->
 * Desenvolvedor,
 <br />Marcos Morais
 <br />Visite https://linktr.ee/marcosmoraisjr
